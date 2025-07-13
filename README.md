@@ -1,4 +1,3 @@
-BlackNetRCE
 BlackNetRCE is a Python-based Remote Code Execution (RCE) tool that lets you create a secure communication channel between a server and a client using SSL certificates.
 
 Features
